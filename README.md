@@ -16,24 +16,25 @@ A fast, privacy-first PDF merging tool that runs **entirely in your browser**. N
 - ⚡ **Fast merge** — powered by pdf-lib
 - 📊 **Progress bar** — real-time merge status
 - 💾 **Custom filename** — name your output file
-- 📱 **Responsive** — works on all devices
+- 📱 **Responsive** — works seamlessly on all devices
 
 ---
 
-## 🚀 Demo
+## 🚀 Usage
 
-> Open `index.html` directly in your browser — no install needed.
+Simply place the `index.php` file on any PHP-enabled web server (Apache, Nginx, XAMPP, etc.) and open it in your browser. 
+
+*Note: The tool is served via PHP, but all file uploading and PDF merging is handled securely on the client-side via your browser's memory.*
 
 ---
 
 ## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 [![pdf-lib](https://img.shields.io/badge/pdf--lib-1.17.1-667eea?style=for-the-badge)](https://pdf-lib.js.org/)
-
----
 
 ---
 
